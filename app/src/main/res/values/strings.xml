@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Card</string>
+    <string name="login">LOGIN</string>
+    <string name="img_Desc_one">img Trail One</string>
+    <string name="img_Desc_two">img Trail two</string>
+    <string name="select_account">Selected Account: </string>
+    <string name="confirm_text">CONFIRM</string>
+    <string name="cancel_text">CANCEL</string>
+    <string name="personal_account">Personal</string>
+    <string name="savings_account">Savings</string>
+    <string name="business_account">Business</string>
+    <string name="scorecard_textview">ScoreCard</string>
+    <string name="signup">SignUp</string>
+    <string name="Date">Date:</string>
+    <string name="Amount">Amount:</string>
+    <string name="Merchant">Merchant:</string>
+    <string name="TransType">Transaction Type:</string>
+
+
+</resources>
